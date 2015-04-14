@@ -1,0 +1,22 @@
+{
+	"profil" : 
+	{
+		"name" : "Dupanloup",
+		"firstname" : "Rémy",
+		"birth" : "24 mai 1993",
+		"age" : "21",
+		"adresse" : [
+			{
+				"rue" : "227 rue de la Ravoire",
+				"ville" : "74930 Reignier"
+			},
+			{
+				"rue" : "4 ave de la Verte Pagane",
+				"ville" : "06600 Antibes"
+			}
+		],
+		"portable" : "+33 6 32 68 45 81",
+		"mail" : "remy_dupanloup@orange.fr"
+	}
+	
+}

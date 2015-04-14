@@ -1,0 +1,32 @@
+{
+	"expe" : [
+		{
+			"annee" : "2014",
+			"name" : "Patek Philippe Genève",
+			"atelier" : "Stock",
+			"duree" : "5 semaines",
+			"desc" : "Préparation de kits pour la haute horlogerie + inventaire"
+		},
+		{
+			"annee" : "2013",
+			"name" : "Patek Philippe Genève",
+			"atelier" : "Taillage",
+			"duree" : "4 semaines",
+			"desc" : "Fabrication des roues du mouvement"
+		},
+		{
+			"annee" : "2012",
+			"name" : "Patek Philippe Plan-les-Ouates",
+			"atelier" : "Controle Qualité",
+			"duree" : "4 semaines",
+			"desc" : "Controle de la qualité des pièces sous-traitées entrantes et des pièces finies sortantes"
+		},
+		{
+			"annee" : "2011",
+			"name" : "Patek Philippe Genève",
+			"atelier" : "Pivotage",
+			"duree" : "7 semaines",
+			"desc" : "Préparation des pièces du mouvement pour le polissage"
+		}
+	]
+}

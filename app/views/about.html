@@ -1,0 +1,27 @@
+<div>A Propos</div>
+<br/>
+<div>
+	<p>
+		Loisirs :
+	</p>
+</div>
+<ul>
+	<li ng-repeat="l in about.loisirs">
+		{{l.name}}
+		<br/>
+		<br/>
+	</li>
+</ul>
+<br/>
+<div><p>
+Informations personnels :
+</p></div>
+<div>
+&nbsp&nbsp&nbsp&nbsp&nbsp Situation familliale : {{about.infos.status}}
+<div>
+<br/>
+<div>
+&nbsp&nbsp&nbsp&nbsp&nbsp {{about.infos.permis}}
+</div>
+<br />
+<br />

@@ -1,0 +1,17 @@
+<div>
+	Connaissances
+</div>
+<br/>
+<ul>
+	<li ng-repeat="s in skill | orderBy:'-lvl'">
+		{{s.name}} :
+		<div class="progress">
+  			<div class="progress-bar progress-bar-striped" role="progressbar" aria-valuenow="{{s.lvl}}" aria-valuemin="0" aria-valuemax="100" style="min-width: 2em; width: {{s.lvl}}%;">
+				{{s.lvl}}%
+ 			 </div>
+		</div> 
+		{{s.desc}}
+		<br/><br/>
+	</li>
+</ul>
+<br/>

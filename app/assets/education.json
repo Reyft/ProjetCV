@@ -1,0 +1,27 @@
+{
+	"formation" : [
+		{
+			"annee" : "2013 - Present",
+			"name" : "Polytech Nice-Sophia",
+			"spe" : "Science Informatique"			
+		},
+		{
+			"annee" : "2011 - 2013",
+			"name" : "Polytech Annecy-Chambery",
+			"spe" : "PEIP"
+		},
+		{
+			"annee" : "2008 - 2011",
+			"name" : "Lycée des Glières",
+			"spe" : "Spécialité scientifique option physique-chimie",
+			"diplome" : [
+				{
+					"dip" : "Baccalaureat S"
+				},
+				{
+					"dip" : "Permis de Conduire"
+				}
+			]
+		}
+	]
+}

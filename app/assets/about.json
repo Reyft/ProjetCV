@@ -1,0 +1,20 @@
+{
+	"abouts" :
+	{
+		"loisirs" : [
+			{
+				"name" : "Handball"
+			},
+			{
+				"name" : "Badminton"
+			},
+			{
+				"name" : "Les nouvelles technologies"
+			}
+		],
+		"infos" : {
+			"status" : "Célibataire",
+			"permis" : "En possession du permis de conduire"
+		}
+	}
+}

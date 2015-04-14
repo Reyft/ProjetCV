@@ -1,0 +1,17 @@
+<div>
+Education
+</div>
+<br/>
+<div>
+<ul>
+<li ng-repeat="i in education.formation">
+	{{i.annee}} <br />
+	- {{i.name}} <br />	
+	&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp{{i.spe}} <br />
+	<ul>
+	<li ng-repeat="j in i.diplome">{{j.dip}}</li>
+	</ul>
+	<br/>
+</li>
+</ul>
+</div>

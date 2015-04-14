@@ -1,0 +1,35 @@
+{
+	"skills" :
+	[
+		{
+			"name" : "Java",
+			"lvl" : "80",
+			"desc" : "Utilisation de certaines librairies annexes"
+		},
+		{
+			"name" : "C++",
+			"lvl" : "50",
+			"desc" : "Apprentissage + implémentation de plusieurs design pattern en C++"
+		},		
+		{
+			"name" : ".Net FrameWork",
+			"lvl" : "20",
+			"desc" : "Mise en place de module de connexion et de payement par cb"
+		},
+		{
+			"name" : "Conteneur d'EJB avec JEE",
+			"lvl" : "40",
+			"desc" : "Mise en place d'une application de commande de cookies en ligne"
+		},
+		{
+			"name" : "test 0%",
+			"lvl" : "0",
+			"desc" : "La barre doit pouvoir afficher le 0%"
+		},
+		{
+			"name" : "C",
+			"lvl" : "50",
+			"desc" : "Initiation a la programmation impérative"
+		}
+	]
+}
