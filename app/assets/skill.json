@@ -30,6 +30,11 @@
 			"name" : "C",
 			"lvl" : "50",
 			"desc" : "Initiation a la programmation impérative"
+		},
+		{
+			"name" : "Angular JS",
+			"lvl" : "95",
+			"desc" : "Pure skill, pure talent"
 		}
 	]
 }
